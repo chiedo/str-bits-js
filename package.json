@@ -1,0 +1,19 @@
+{
+  "name": "str-bits",
+  "version": "0.0.1",
+  "description": "Converts a string to binary",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chiedo/str-bits-js.git"
+  },
+  "author": "Chiedo <chiedo@chie.do> (https://chie.do)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/chiedo/str-bits-js/issues"
+  },
+  "homepage": "https://github.com/chiedo/str-bits-js#readme"
+}
